@@ -1,0 +1,25 @@
+/* Estilização personalizada para o WidgetBot Embed */
+.back-client-us {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+/* Centraliza o conteúdo dentro do WidgetBot */
+.back-client-us widgetbot {
+  display: block;
+  width: 100%;
+  max-width: 800px;
+  height: 600px;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+/* Estilo opcional para a linha horizontal (hrinicio) */
+.hrinicio {
+  border: none;
+  height: 2px;
+  margin: 40px 0;
+}
